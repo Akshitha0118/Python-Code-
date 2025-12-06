@@ -1,0 +1,15 @@
+#Program for demonstrating the Functionality of Arithmetic Op
+#ArithmeticOpEx1.py
+a=float(input("Enter Value of a:"))
+b=float(input("Enter Value of b:"))
+print("-"*50)
+print("\t\tArithmetic Operators Result")
+print("-"*50)
+print("\t\t\t{} + {} = {}".format(a,b,a+b))
+print("\t\t\t{} - {} = {}".format(a,b,a-b))
+print("\t\t\t{} * {} = {}".format(a,b,a*b))
+print("\t\t\t{} / {} = {}".format(a,b,a/b))
+print("\t\t\t{} // {} = {}".format(a,b,a//b))
+print("\t\t\t{} % {} = {}".format(a,b,a%b))
+print("\t\t\t{} ** {} = {}".format(a,b,a**b))
+print("-"*50)

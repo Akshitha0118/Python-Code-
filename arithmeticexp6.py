@@ -1,0 +1,6 @@
+#python program to calculate the (a**m) / (a**n)
+a=float(input("enter the a value:"))
+m=float(input("enter the m value:"))
+n=float(input("enter the n value:"))
+amn=(a**m) / (a**n)
+print("value of amn={}".format(amn))
